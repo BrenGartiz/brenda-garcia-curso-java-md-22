@@ -11,12 +11,12 @@ public class Calculadora {
 
         num1.suma();
 
-        num2.multiplicacion();
+        num2.resta();
 
-        num3.suma();
+        num3.multiplicacion();
 
         num4.division();
 
-        num5.multiplicacion();
+        num5.resta();
     }
 }
